@@ -1,0 +1,15 @@
+para atualizar do seu repositorio local (origin) para o virtual (master)
+
+# git add --all
+# git commit -m  "frase sua do commit"
+# git push -u origin master
+
+
+
+
+para atualizar do seu repositorio virtual (master)para o origin (local)
+
+# git pull
+
+
+
