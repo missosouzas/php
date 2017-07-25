@@ -19,6 +19,15 @@ criar um repositorio remoto
 # git remote add origin https://github.com/m
 issosouzas/php.git
 
+mandar os arquivos remotamente para base ou atualizar
+
+#git push -u origin master
+
+
+
+
+
+
 
 
 
