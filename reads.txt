@@ -1,1 +1,25 @@
 arquivo de teste apenas
+
+crie a pasta
+no bash ou cmd   ... digite
+
+#git init
+#git remote add origin https://github.com/missosouzas/php.git/
+
+(esta é uma pasta criada com exec o comando git init)
+
+# git commit -m "frase para explicar o commit"
+
+(vai abrir uma janela e temos que colocar usuario e senha)
+
+#git add --all   //coloca todos os arquivos no repositorio mas não no repositorio remoto.
+
+
+criar um repositorio remoto
+# git remote add origin https://github.com/m
+issosouzas/php.git
+
+
+
+
+
